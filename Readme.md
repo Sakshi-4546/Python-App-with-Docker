@@ -5,6 +5,7 @@ This project demonstrates how to containerize a simple Python application using 
 
 ### Basic Requirements:
 python-docker-app/
+
 │── app.py
 │── requirements.txt
 │── Dockerfile
