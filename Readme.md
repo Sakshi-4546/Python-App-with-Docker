@@ -3,6 +3,13 @@
 
 This project demonstrates how to containerize a simple Python application using a Dockerfile. Docker allows you to package your application along with its dependencies so it runs consistently across different environments
 
+### Basic Requirements:
+python-docker-app/
+│── app.py
+│── requirements.txt
+│── Dockerfile
+
+
 ## Step-By-Step
 
 ### Step 1:- Launch Instance
